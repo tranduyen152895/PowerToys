@@ -22,11 +22,6 @@
 | PowerToysOverview | https://learn.microsoft.com/windows/powertoys/ |
 | PowerToysOverview_ColorPicker | https://learn.microsoft.com/windows/powertoys/color-picker |
 | PowerToysOverview_FancyZones | https://learn.microsoft.com/windows/powertoys/fancyzones |
-| PowerToysOverview_FileExplorerAddOns | https://learn.microsoft.com/windows/powertoys/file-explorer |
-| PowerToysOverview_ImageResizer | https://learn.microsoft.com/windows/powertoys/image-resizer |
-| PowerToysOverview_KeyboardManager | https://learn.microsoft.com/windows/powertoys/keyboard-manager |
-| PowerToysOverview_MouseUtilities | https://learn.microsoft.com/windows/powertoys/mouse-utilities |
-| PowerToysOverview_PowerRename | https://learn.microsoft.com/windows/powertoys/powerrename |
 | PowerToysOverview_PowerToysRun | https://learn.microsoft.com/windows/powertoys/run |
 | PowerToysOverview_ShortcutGuide | https://learn.microsoft.com/windows/powertoys/shortcut-guide |
 | powerToysPowerLauncherImageSmall | https://github.com/microsoft/PowerToys/wiki/images/overview/PowerLauncher_small.png |
